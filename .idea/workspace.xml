@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a82704a-e579-4684-ad5d-fe6f2dbaa20f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../калькулятор/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../калькулятор/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../калькулятор/app/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../калькулятор/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../калькулятор/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project24.2_calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project24.2_calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project24.7_PF/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project24.7_PF/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф генерация тест-кейсов.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф данные о продажах.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф задать формат даты.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф кол-во и статус тестов, обновление идентификаторов.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф на валидность email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф обработки пароля.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф с числом в диапазоне.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф статистика тестов.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф-генератор по заданному уровню логирования.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/декоратор для измерения время выполнения функций.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/functions/интернет-магазин, список путей, рекурсия.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/project18.7_school_diary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/project20.4_online-store's_orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/readme_23.2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/translator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/веб-приложение с данными о пользователях.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/ежедневник01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/ежедневник02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skillfactory/projects/контакты в телефоне.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sklfctr/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sklfctr/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sklfctr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sklfctr/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38Yqx5hk2ypbhpEHv7SPXmXmduO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.project20.4_online-store's_orders.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/irinazaitsewa/PycharmProjects/project20.4_online-store's_orders&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a82704a-e579-4684-ad5d-fe6f2dbaa20f" name="Changes" comment="" />
+      <created>1768987095091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768987095091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
