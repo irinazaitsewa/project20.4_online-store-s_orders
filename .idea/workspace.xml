@@ -5,13 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a82704a-e579-4684-ad5d-fe6f2dbaa20f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../project18.7_school_diary/school_dairy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project23.2_web-site_parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project23.2_web-site_parser/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project23.2_web-site_parser/news_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project23.2_web-site_parser/parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklfctr/веб-приложение с данными о пользователях.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklfctr/декоратор для измерения время выполнения функции.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sklfctr/ежедневник02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../калькулятор/.idea/калькулятор.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../калькулятор/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../калькулятор/app/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../калькулятор/app/calc.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../калькулятор/tests/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../калькулятор/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translator.json" beforeDir="false" afterPath="$PROJECT_DIR$/translator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/project23.2_website_parser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/news_dict.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project23.2_website_parser/parsing.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project24.2_calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project24.2_calculator/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project24.7_PF/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project24.7_PF/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project26.6_PF/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project26.6_PF/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф генерация тест-кейсов.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф данные о продажах.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../skillfactory/functions/Ф задать формат даты.py" beforeDir="false" />
@@ -39,8 +62,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -55,6 +85,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.project20.4_online-store's_orders.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/irinazaitsewa/PycharmProjects/project20.4_online-store's_orders&quot;
